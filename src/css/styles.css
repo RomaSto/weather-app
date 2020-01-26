@@ -109,7 +109,8 @@ img {
       border-style: solid; }
     .weather-app .search-form .btn {
       height: 50px;
-      width: 80px; }
+      width: 80px;
+      font-size: 19px; }
   .weather-app .city-list {
     width: 650px;
     font-size: 20px;
